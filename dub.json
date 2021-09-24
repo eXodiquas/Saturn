@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"eXodiquas"
+	],
+	"copyright": "Copyright © 2021, eXodiquas",
+	"description": "A ray tracing library.",
+	"license": "MIT",
+	"name": "saturn"
+}
